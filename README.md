@@ -1,3 +1,24 @@
+# Monique Siqueira Gomes Araújo
+
+Estudante de programação no Senai-SP realizado pelo projeto Ford <Enter>, 29 anos, Casada e mamãe da Marieva.
+
+
+**iniciante no Front-End**
+
+Em 2023
+
+
+
+## Formação
+Formada em técnica de Enfermagem há 7 anos
+
+
+### Tecnologias que estou aprendendo:
+
+
+
+
+
 ### Hi there 👋
 
 <!--

@@ -31,7 +31,7 @@ Formada em técnica de Enfermagem há 7 anos
 
 * **GITHUB**
 
-* **POWER SHELL**
+* **POWERSHELL**
 
 
 

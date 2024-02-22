@@ -1,6 +1,6 @@
 # Monique Siqueira Gomes Araújo
 
-**Dev Front-End**
+**Desenvolvedor Front-End**
 
 Estudante de programação no Senai-SP realizado pelo projeto Ford <Enter>, Tenho 29 anos, Casada e mamãe da Marieva.
 
